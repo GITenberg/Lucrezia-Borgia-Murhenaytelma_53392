@@ -1,5 +1,5 @@
 _repo: Lucrezia-Borgia-Murhenaytelma_53392
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Hahl, Jalmari
@@ -20,6 +20,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hugo, Victor
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53392#Lucrezia-Borgia-Murhenaytelma
 gutenberg_issued: '2016-10-28'
 gutenberg_type: Text
 identifiers:
