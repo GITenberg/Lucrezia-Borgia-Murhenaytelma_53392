@@ -1,0 +1,48 @@
+_repo: Lucrezia-Borgia-Murhenaytelma_53392
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hahl, Jalmari
+    alias: Hahl, J.
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '8054'
+    url: http://www.gutenberg.org/2009/agents/8054
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Brofeldt, Juhani
+    - Aho, Johani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2016-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53392'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borgia, Lucrezia, 1480-1519 -- Drama'
+- !lcsh 'Italy -- History -- 1492-1559 -- Drama'
+- !lcc 'PQ'
+- !lcsh 'French drama -- Translations into Finnish'
+- GITenberg
+title: 'Lucrezia Borgia: Murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/53392
